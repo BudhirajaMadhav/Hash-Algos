@@ -35,7 +35,7 @@ How to contribute?
 
 Follow the steps given below,
 
-1. Fork, <https://github.com/codezonediitj/pydatastructs/>
+1. Fork, <https://github.com/hash-define-organization/Hash-Algos/>
 2. Execute, `git clone https://github.com/hash-define-organization/Hash-Algos/`
 3. Change your working directory to `../Hash-Algos`.
 4. Execute, `git remote add origin_user https://github.com/<your-github-username>/Hash-Algos/`
